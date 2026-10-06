@@ -20,7 +20,7 @@ editor: visual
 
 - ORCID
 
-  ORCID is a free, unique, persistent identifier (PID) for individuals to use as they engage in research, scholarship, and innovation activities. Learn how ORCID can help you spend more time conducting your research and less time managing it
+  ORCID is a free, unique, persistent identifier (PID) for individuals to use as they engage in research, scholarship, and innovation activities. Learn how ORCID can help you spend more time conducting your research and less time managing it.
 
   \[ORCID\](<https://orcid.org/>)
 
