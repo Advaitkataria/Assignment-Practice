@@ -6,30 +6,47 @@ editor: visual
 
 ## Organizations
 
-* CRKN
-* Digital Research Alliance of Canada
-* DataCite Canada Consortium
-* Borealis
-* CrossRef
-* LAC
-* CPIDAC
+- CRKN
+- Digital Research Alliance of Canada
+- DataCite Canada Consortium
+- Borealis
+- CrossRef
+- LAC
+- CPIDAC
 
 ## Persistent Identifiers
 
-* PID
-* ORCID
-* DOI
-* ISSN
+- PID
+- ORCID
+- DOI
+- ISSN
 
 ## Concepts
-* Open Access
-* Open Source
-* Metadata
-* License (as a verb, providing access to ejournals, databases, etc)
-* Creative Commons License
-* Trustworthy Digital Repository (TDR)
-* COUNTER usage statistics
-* Peer review
-* SAFES Data
-* FAIR Principles
-* CARE Principles
+
+- Open Access
+- Open Source
+- Metadata
+- License (as a verb, providing access to ejournals, databases, etc)
+- Creative Commons License
+- Trustworthy Digital Repository (TDR)
+- COUNTER usage statistics
+- Peer review
+- SAFES Data
+- FAIR Principles
+- CARE Principles
+
+**FAIR Principles**
+
+- FAIR is an acronym that supports and portrays the need for ethical creation and use of data. It is a way of remembering the core principles behind utilizing data properly.
+
+  - F \[Findable\] - Metadata and data should be easy to find for both humans and computers.
+
+  - A \[Accessible\] - Once the user finds the required data, she/he/they need to know how they can be accessed, possibly including authentication and authorization.
+
+  - I \[Interoperable\] - The data usually needs to be integrated with other data.
+
+  - R \[Reusable\] - Optimize the reuse of data, all data should be well described so it can be replicated or combined.
+
+Source:
+
+<https://www.gofair.foundation/fair-principles>
