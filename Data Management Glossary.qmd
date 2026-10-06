@@ -24,7 +24,7 @@ editor: visual
 ## Concepts
 * Open Access
 * Open Source
-* Metadata
+* Metadata: data about data
 * License (as a verb, providing access to ejournals, databases, etc)
 * Creative Commons License
 * Trustworthy Digital Repository (TDR)
@@ -33,3 +33,4 @@ editor: visual
 * SAFES Data
 * FAIR Principles
 * CARE Principles
+*digital research infrastructure (DRI): "collection of tools and services that allow researchers to turn big data into scientific breakthroughs." (https://ised-isde.canada.ca/site/ised/en/programs-and-initiatives/digital-research-infrastructure)
