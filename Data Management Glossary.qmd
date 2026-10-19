@@ -32,10 +32,10 @@ editor: visual
 - Peer review
 - SAFES Data
 - FAIR Principles: An acronym that supports and portrays the need for ethical creation and use of data. It is a way of remembering the core principles behind utilizing data properly.
-  - F \[Findable\] - Metadata and data should be easy to find for both humans and computers.
-  - A \[Accessible\] - Once the user finds the required data, she/he/they need to know how they can be accessed, possibly including authentication and authorization.
-  - I \[Interoperable\] - The data usually needs to be integrated with other data.
-  - R \[Reusable\] - Optimize the reuse of data, all data should be well described so it can be replicated or combined.
+  - F \[Findable\]: Metadata and data should be easy to find for both humans and computers.
+  - A \[Accessible\]: Once the user finds the required data, she/he/they need to know how they can be accessed, possibly including authentication and authorization.
+  - I \[Interoperable\]: The data usually needs to be integrated with other data.
+  - R \[Reusable\]: Optimize the reuse of data, all data should be well described so it can be replicated or combined.
   Source: <https://www.gofair.foundation/fair-principles>
 - CARE Principles: Collective benefit, Authority to control, Responsibility, Ethics. The CARE principles are used when collecting data from or about indigenous people to
 ensure fair and ethical practices that do not echo the mistakes of the past. These provide emphasis on the consent of indigenous people to give data (and avoiding stealing
